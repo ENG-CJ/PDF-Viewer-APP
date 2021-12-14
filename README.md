@@ -2,7 +2,7 @@
 This App Allows You To View PDF Files GET AND ENJOYED
 
 ## THUMBNAIL APP
-![](thumb.jpg)
+![](pdf.jpg)
 
 ## Developer
 Abdulrahman Haaji
